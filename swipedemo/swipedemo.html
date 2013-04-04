@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="chrome=1,IE=edge" />
+	<meta name="viewport" content="user-scalable=yes, width=600" />
+	<title>swipedemo</title>
+	<style>
+		body {
+			background-color: #FFFFFF;
+			margin: 0px;
+		}
+	</style>
+
+	<!-- copy these lines to your document head: -->
+
+	<script type="text/javascript" src="swipedemo.hyperesources/zepto.min.js"></script>
+
+	
+<script type = "text/javascript">
+
+// make sure the browser does not do any scrolling (avoids iOS6 timer bug)
+document.ontouchmove = function(event) {
+event.preventDefault();
+}
+
+function documentLoaded(hypeDocument, element, event) {
+var documentName = hypeDocument.documentName();
+var mainContainerID = "#" + documentName + "_hype_container";
+
+// when swiping right show the previous scene
+$(mainContainerID).swipeRight(function() {
+hypeDocument.showPreviousScene(hypeDocument.kSceneTransitionPushLeftToRight);
+});
+
+// when swiping left show the previous scene
+$(mainContainerID).swipeLeft(function() {
+hypeDocument.showNextScene(hypeDocument.kSceneTransitionPushRightToLeft);
+});
+}
+
+window.HYPE_eventListeners = [{"type":"HypeDocumentLoad", "callback":documentLoaded}];
+
+</script>
+	
+	<!-- end copy -->
+
+  </head>
+  <body>
+	<div style ="margin:auto;width:600px">
+
+
+	
+	<!-- copy these lines to your document: -->
+
+	<div id="swipedemo_hype_container" style="position:relative;overflow:hidden;width:600px;height:400px;">
+		<script type="text/javascript" charset="utf-8" src="swipedemo.hyperesources/swipedemo_hype_generated_script.js?64055"></script>
+	</div>
+
+	<!-- end copy -->
+	
+
+
+	</div>
+  </body>
+</html>
