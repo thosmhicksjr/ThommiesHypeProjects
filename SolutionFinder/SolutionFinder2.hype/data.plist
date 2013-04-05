@@ -25,7 +25,11 @@
 	
 	</string>
 	<key>lastCheckDate</key>
+<<<<<<< HEAD:SolutionFinder/SolutionFinder2.hype/data.plist
 	<date>2013-04-03T13:58:06Z</date>
+=======
+	<date>2013-04-05T02:28:59Z</date>
+>>>>>>> Added new buttons to artwork folder:CheckTestVertSlide2/CheckTestVertSlide2.hype/data.plist
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
@@ -21776,6 +21780,7 @@
 									<key>type</key>
 									<integer>1</integer>
 								</dict>
+<<<<<<< HEAD:SolutionFinder/SolutionFinder2.hype/data.plist
 							</array>
 						</dict>
 						<dict>
@@ -22113,6 +22118,87 @@
 						</dict>
 					</array>
 					<key>269</key>
+=======
+								<key>timingFunction</key>
+								<string>easeinout</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>F6C2A822-81E0-47E9-A192-D087935CED5C-7995-000070247FBD8959</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+						</array>
+						<key>firstKeyframeIsRelative</key>
+						<false/>
+						<key>framesPerSecond</key>
+						<integer>30</integer>
+						<key>hidden</key>
+						<false/>
+						<key>identifier</key>
+						<string>320</string>
+						<key>name</key>
+						<string>PictureIn4</string>
+						<key>userDefinedDuration</key>
+						<real>0.0</real>
+					</dict>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>VertStack2</string>
+			<key>oid</key>
+			<string>244</string>
+			<key>scrollViewOffset</key>
+			<string>{0, 0}</string>
+			<key>selectedObjects</key>
+			<array/>
+			<key>showTimelineActions</key>
+			<true/>
+			<key>splitHeight</key>
+			<real>442</real>
+			<key>userGuides</key>
+			<array>
+				<dict>
+					<key>offset</key>
+					<real>312</real>
+					<key>orientation</key>
+					<string>vertical</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>animationController</key>
+			<dict>
+				<key>expandedItems</key>
+				<array/>
+				<key>timeCursors</key>
+				<dict>
+					<key>104</key>
+					<real>0.0</real>
+					<key>15</key>
+					<real>0.0</real>
+					<key>16</key>
+					<real>0.0</real>
+					<key>189</key>
+					<real>0.0</real>
+					<key>190</key>
+					<real>0.0</real>
+					<key>kTimelineDefaultIdentifier</key>
+					<real>0.0</real>
+				</dict>
+				<key>timescale</key>
+				<integer>120</integer>
+			</dict>
+			<key>canvasSize</key>
+			<string>{2872, 4090}</string>
+			<key>context</key>
+			<dict>
+				<key>currentTimelineIdentifier</key>
+				<string>kTimelineDefaultIdentifier</string>
+				<key>elements</key>
+				<dict>
+					<key>207</key>
+>>>>>>> Added new buttons to artwork folder:CheckTestVertSlide2/CheckTestVertSlide2.hype/data.plist
 					<array>
 						<dict>
 							<key>identifier</key>
