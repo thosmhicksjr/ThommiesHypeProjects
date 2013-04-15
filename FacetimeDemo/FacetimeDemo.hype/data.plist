@@ -21,7 +21,7 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2013-04-15T00:49:29Z</date>
+	<date>2013-04-15T15:55:17Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
@@ -40,7 +40,7 @@
 		<key>showSceneTabView</key>
 		<true/>
 		<key>splitHeight</key>
-		<real>272</real>
+		<real>494</real>
 		<key>splitViewIsVertical</key>
 		<false/>
 		<key>splitWidth</key>
@@ -223,7 +223,7 @@
 				<integer>60</integer>
 			</dict>
 			<key>canvasSize</key>
-			<string>{2872, 996}</string>
+			<string>{2872, 997}</string>
 			<key>context</key>
 			<dict>
 				<key>currentTimelineIdentifier</key>
@@ -2034,6 +2034,12 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>facetime_by_lrscrew-d31e4ep</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>ActionsOnMouseClick</string>
 							<key>objectValue</key>
 							<array>
@@ -2046,12 +2052,6 @@
 									<integer>5</integer>
 								</dict>
 							</array>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>DisplayName</string>
-							<key>objectValue</key>
-							<string>facetime_by_lrscrew-d31e4ep</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2184,6 +2184,12 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>facetime_by_lrscrew-d31e4ep</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>ActionsOnMouseClick</string>
 							<key>objectValue</key>
 							<array>
@@ -2196,12 +2202,6 @@
 									<integer>5</integer>
 								</dict>
 							</array>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>DisplayName</string>
-							<key>objectValue</key>
-							<string>facetime_by_lrscrew-d31e4ep</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2334,6 +2334,12 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>facetime_by_lrscrew-d31e4ep</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>ActionsOnMouseClick</string>
 							<key>objectValue</key>
 							<array>
@@ -2346,12 +2352,6 @@
 									<integer>5</integer>
 								</dict>
 							</array>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>DisplayName</string>
-							<key>objectValue</key>
-							<string>facetime_by_lrscrew-d31e4ep</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2772,6 +2772,12 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>facetime_by_lrscrew-d31e4ep</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>ActionsOnMouseClick</string>
 							<key>objectValue</key>
 							<array>
@@ -2784,12 +2790,6 @@
 									<integer>5</integer>
 								</dict>
 							</array>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>DisplayName</string>
-							<key>objectValue</key>
-							<string>facetime_by_lrscrew-d31e4ep</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2922,6 +2922,12 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>facetime_by_lrscrew-d31e4ep</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>ActionsOnMouseClick</string>
 							<key>objectValue</key>
 							<array>
@@ -2934,12 +2940,6 @@
 									<integer>5</integer>
 								</dict>
 							</array>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>DisplayName</string>
-							<key>objectValue</key>
-							<string>facetime_by_lrscrew-d31e4ep</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3072,6 +3072,12 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>facetime_by_lrscrew-d31e4ep</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>ActionsOnMouseClick</string>
 							<key>objectValue</key>
 							<array>
@@ -3084,12 +3090,6 @@
 									<integer>5</integer>
 								</dict>
 							</array>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>DisplayName</string>
-							<key>objectValue</key>
-							<string>facetime_by_lrscrew-d31e4ep</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3222,6 +3222,12 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>facetime_by_lrscrew-d31e4ep</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>ActionsOnMouseClick</string>
 							<key>objectValue</key>
 							<array>
@@ -3234,12 +3240,6 @@
 									<integer>5</integer>
 								</dict>
 							</array>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>DisplayName</string>
-							<key>objectValue</key>
-							<string>facetime_by_lrscrew-d31e4ep</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3336,9 +3336,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PaddingLeft</string>
+							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>8px</string>
+							<string>23</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3348,9 +3348,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ZIndex</string>
+							<string>PaddingLeft</string>
 							<key>objectValue</key>
-							<string>23</string>
+							<string>8px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3381,15 +3381,15 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>DisplayName</string>
 							<key>objectValue</key>
 							<string>share-icon</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3498,15 +3498,15 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>1px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3558,13 +3558,13 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorLeft</string>
+							<string>BorderColorTop</string>
 							<key>objectValue</key>
 							<string>#A0A0A0</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorTop</string>
+							<string>BorderColorLeft</string>
 							<key>objectValue</key>
 							<string>#A0A0A0</string>
 						</dict>
@@ -3600,15 +3600,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Width</string>
-							<key>objectValue</key>
-							<string>37px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
 							<string>24</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>37px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3659,7 +3659,7 @@
 							<key>identifier</key>
 							<string>FontSize</string>
 							<key>objectValue</key>
-							<string>27px</string>
+							<string>26px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3729,9 +3729,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PaddingLeft</string>
+							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>8px</string>
+							<string>26</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3741,9 +3741,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ZIndex</string>
+							<string>PaddingLeft</string>
 							<key>objectValue</key>
-							<string>26</string>
+							<string>8px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4103,15 +4103,13 @@
 			<key>oid</key>
 			<string>1</string>
 			<key>scrollViewOffset</key>
-			<string>{0, 142}</string>
+			<string>{0, 0}</string>
 			<key>selectedObjects</key>
-			<array>
-				<string>27</string>
-			</array>
+			<array/>
 			<key>showTimelineActions</key>
 			<false/>
 			<key>splitHeight</key>
-			<real>272</real>
+			<real>494</real>
 		</dict>
 	</array>
 	<key>scripts</key>
